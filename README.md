@@ -1,2 +1,3 @@
-# dio-desafio-github-primeiro-repositorio
-Desafio de Código para Git/Github
+# Desafio de Código - Primeiro Repositório GitHub
+
+Primeiro Desafio do bootcamp Cognizant
